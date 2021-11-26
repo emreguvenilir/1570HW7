@@ -7,6 +7,12 @@ using std::string;
 
 class Skill{
 public:
+//=====================================================================
+//
+// Missing function documentation, but I'll go easy on the deduction because you have them in all the other files
+//
+// Deductions: -2
+//=====================================================================
     Skill(){}
     Skill(const string name, const int dmg):m_name(name), m_baseDmg(dmg){}
     void setMName(const string &mName) { m_name = mName; }

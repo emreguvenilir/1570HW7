@@ -1,0 +1,65 @@
+
+
+@@@@@@@@@@@@@@@ == ../../inputs/hw7-input.txt == @@@@@@@@@@@@@@@
+
+
+What's your name, contestant?
+What's your name, contestant?
+Let's prepare you for the combat, contestant Richie Rhein!
+Do you want to add a new Codemon? (y/n)
+Name of the Codemon?
+The Codemon's type?
+The Codemon's level?
+The Codemon's HP?
+Do you want to add a new skill for this Codemon? (y/n)
+Name of the skill?
+The skill's base damage?
+Do you want to add a new skill for this Codemon? (y/n)
+Name of the skill?
+The skill's base damage?
+Do you want to add a new skill for this Codemon? (y/n)
+Do you want to add a new Codemon? (y/n)
+Name of the Codemon?
+The Codemon's type?
+The Codemon's level?
+The Codemon's HP?
+Do you want to add a new skill for this Codemon? (y/n)
+Name of the skill?
+The skill's base damage?
+Do you want to add a new skill for this Codemon? (y/n)
+Name of the skill?
+The skill's base damage?
+Do you want to add a new skill for this Codemon? (y/n)
+Do you want to add a new Codemon? (y/n)
+Do you want to add a new item? (y/n)
+Let's prepare you for the combat, contestant Henry Wong!
+Do you want to add a new Codemon? (y/n)
+Name of the Codemon?
+The Codemon's type?
+The Codemon's level?
+The Codemon's HP?
+Do you want to add a new skill for this Codemon? (y/n)
+Name of the skill?
+The skill's base damage?
+Do you want to add a new skill for this Codemon? (y/n)
+Name of the skill?
+The skill's base damage?
+Do you want to add a new skill for this Codemon? (y/n)
+Do you want to add a new Codemon? (y/n)
+Name of the Codemon?
+The Codemon's type?
+The Codemon's level?
+The Codemon's HP?
+Do you want to add a new skill for this Codemon? (y/n)
+Name of the skill?
+The skill's base damage?
+Do you want to add a new skill for this Codemon? (y/n)
+Do you want to add a new Codemon? (y/n)
+Do you want to add a new item? (y/n)
+
+The Codemon cannot be removed as it does not exist.
+
+The Item cannot be removed as it does not exist.
+It is hailing!
+Henry Wong will attack first.
+Winner is Richie Rhein
